@@ -1,5 +1,7 @@
 # My_Shell
 
+OS Shell which support standard commands and allows execution of concurrent processes  
+
 set command: supports up to 5 alphanumeric tokens as the STRING variable  
 example execution: $ set x 20 bob alice toto xyz  
 $ print x  
